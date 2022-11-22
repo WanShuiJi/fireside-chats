@@ -1,0 +1,70 @@
+hr {
+  background-color: black;
+  height: 2.5px;
+}
+
+body{
+background-color:rgb(139, 185, 10);
+}
+
+h1{
+font-size: 40px;
+font-weight: bold;
+  background-color: white;
+  border-top-color: White;
+  border-bottom-color: white;
+}
+
+h7{
+font-size:20px;
+}
+
+h4 {
+font-size:20px;
+border-style:dotted;
+border-width: 8px;
+border-radius:30px;
+border-color:rgb(10, 105, 0);
+}
+
+h3{
+font-size: 23.4px;
+}
+h2{
+float:right;
+text-decoration:underline;
+}
+
+p{
+font-size:20px;
+}
+
+h6{
+font-size:23px;
+font-family:Arial;
+Text-decoration:double underline;
+color:rgb(222, 254, 83);
+}
+
+
+h5{
+font-size:18px;
+text-align: left;
+border-style: double groove;
+border-radius:30px;
+border-width:8px;
+border-color:rgb(10, 105, 0);
+}
+
+#WOMAN{
+float: left;
+border-radius:45px;
+}
+
+#ABE{
+border-radius:45px;
+}
+
+#LINE{
+border-radius:45px;
+}
