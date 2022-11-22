@@ -3,45 +3,45 @@ hr {
   height: 2.5px;
 }
 
-h1{
-font-size: 40px;
-font-weight: bold;
+h1 {
+  font-size: 40px;
+  font-weight: bold;
   background-color: white;
   border-top-color: White;
   border-bottom-color: white;
 }
 
-h4{
-font-size:25px;
-text-decoration:overline;
-color:rgb(150, 66, 0)
+h4 {
+  font-size: 25px;
+  text-decoration: overline;
+  color: rgb(150, 66, 0)
 }
 
-h5{
-font-size:21px;
+h5 {
+  font-size: 21px;
 }
 
-p{
-font-size:20px;
+p {
+  font-size: 20px;
 }
 
-h3{
-font-size: 23.4px;
+h3 {
+  font-size: 23.4px;
 }
 
-h2{
-float:right;
-text-decoration:underline;
+h2 {
+  float: right;
+  text-decoration: underline;
 }
 
-body{
-background-color:rgb(241, 228, 33) 
+body {
+  background-color: rgb(241, 228, 33)
 }
 
-#BANK{
-border-radius:35px;
+#BANK {
+  border-radius: 35px;
 }
 
-#YFDR{
-border-radius:35px;
+#YFDR {
+  border-radius: 35px;
 }

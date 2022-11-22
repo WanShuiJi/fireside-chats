@@ -4,57 +4,57 @@ hr {
 }
 
 p {
-font-size:23px;
-text-align: center;
+  font-size: 23px;
+  text-align: center;
 }
 
 body {
-background-color:rgb(207, 143, 19); 
+  background-color: rgb(207, 143, 19);
 }
 
-#FDRTITLE{
- width:550px;
- border-radius:50px;
- border-style:groove;
- border-width: 10px;
- border-color:rgb(255, 247, 0);
+#FDRTITLE {
+  width: 550px;
+  border-radius: 50px;
+  border-style: groove;
+  border-width: 10px;
+  border-color: rgb(255, 247, 0);
 }
 
-#WHI{
-border-radius:50px;
-border-width: 10px;
-border-style: dotted;
-border-color: rgb(245, 46, 3);
+#WHI {
+  border-radius: 50px;
+  border-width: 10px;
+  border-style: dotted;
+  border-color: rgb(245, 46, 3);
 }
 
-h1{
-font-size:40px;
-font-weight: bold;
+h1 {
+  font-size: 40px;
+  font-weight: bold;
   background-color: white;
   border-top-color: White;
   border-bottom-color: white;
 }
 
-h6{
-font-size:12px;
+h6 {
+  font-size: 12px;
 }
 
-h2{
-float:right;
-text-decoration:underline;
+h2 {
+  float: right;
+  text-decoration: underline;
 }
 
-h3{
-font-size:21px;
-font-family:georgia;
-color: rgb(255, 221, 0); 
+h3 {
+  font-size: 21px;
+  font-family: georgia;
+  color: rgb(255, 221, 0);
 }
 
-h5{
-font-size:20px;
-color:red;
+h5 {
+  font-size: 20px;
+  color: red;
 }
 
-h4{
-font-size:18px;
+h4 {
+  font-size: 18px;
 }
